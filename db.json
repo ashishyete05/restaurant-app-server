@@ -1,0 +1,55 @@
+{
+  "restro": [
+    {
+      "name": "Ayana restro",
+      "address": "Bangalore",
+      "email": "ayana@bangalore.com",
+      "mobile": "e23243232324ggfgf",
+      "id": 4
+    }
+  ],
+  "user": [
+    {
+      "firstname": "Ashish",
+      "lastname": "Yete",
+      "username": "ashishyete",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "firstName": "Nidhi",
+      "LastName": "Yete",
+      "username": "nidhiyete",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "username": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "username": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "firstname": "Ayana",
+      "lastname": "Ashish Yete",
+      "username": "ayanayete",
+      "password": "qwest@1234",
+      "id": 5
+    },
+    {
+      "firstname": "Mangala",
+      "lastname": "Yete",
+      "username": "mangalayete",
+      "password": "deepak@123",
+      "id": 6
+    }
+  ]
+}
